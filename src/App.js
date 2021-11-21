@@ -38,7 +38,6 @@ function App() {
 
   const AddExpenseDateHandler = (expense) =>{
 
-    console.log(expense)
     
     setexpenses((prevexpense) =>{ 
       return[expense, ...prevexpense];});
