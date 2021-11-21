@@ -46,7 +46,7 @@ function App() {
 
   };
 
-console.log(setexpenses)
+
   return (
     <div className="App">
 
