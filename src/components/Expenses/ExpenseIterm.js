@@ -7,7 +7,7 @@ import Card from '../UI/Card'
 
 
 const ExpenseIterm = (props) => {
-	console.log("usestated used")
+	//console.log("usestated used")
 
 	
 
